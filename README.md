@@ -1,4 +1,4 @@
-BuzzGame is a simple number game where you count up and replace certain numbers with "buzz". You can play by yourself or against a bot.  
+Buzz is a simple number game where you count up and replace certain numbers with "buzz". You can play by yourself or against a bot.  
 1. Pick a difficulty: `easy`, `medium`, or `hard`.  
 2. Enter one or more buzz numbers (or type `"random"`).  
 3. Choose if you want to play against a bot.  
